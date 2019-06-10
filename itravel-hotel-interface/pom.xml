@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>cn.ilvxing</groupId>
-  <artifactId>itravel-parent</artifactId>
+  <artifactId>itravel-hotel-interface</artifactId>
   <version>1.0</version>
 
-  <name>itravel-parent</name>
+  <name>itravel-hotel-interface</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
